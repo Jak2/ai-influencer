@@ -1,4 +1,4 @@
-```markdown
+
 # AI Virtual Influencer Business Blueprint
 
 **Created for: [Your Name]**  
@@ -30,7 +30,7 @@
 **Recommended Starter**: Fitness girl with productivity tips (gym + study aesthetic)
 
 ### Character Bible Template
-```
+
 Name: 
 Age: 
 Location: 
