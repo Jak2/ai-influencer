@@ -2,7 +2,6 @@ This is a solid blueprint. To make it "GitHub-ready," I have optimized the forma
 
 I also fixed the broken closing of the character bible section in your original text.
 
-```markdown
 # AI Virtual Influencer Business Blueprint 🤖✨
 
 **Created for:** [Your Name]  
